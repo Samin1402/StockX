@@ -1,0 +1,65 @@
+/* ContactUs.css */
+
+.contact-us-container {
+    position: relative;
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+    box-sizing: border-box;
+    /* Add more styling as needed */
+  }
+  
+  
+  h1 {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 56px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #B40ADF;
+  }
+  
+  .contact-form {
+    /* Add styling for your form */
+  }
+  
+  /* Styles for Group 38071 */
+  .group-38071 {
+    position: absolute;
+    width: 455.67px;
+    height: 56px;
+    left: 733px;
+    top: 177px;
+    /* Add more styling as needed */
+  }
+
+  
+  .get-in-touch-btn {
+    /* Add styling for Get in touch - btn */
+  }
+  
+  /* Additional content styling */
+  
+  .additional-content {
+    /* Add styling for other sections like customer care, social media, etc. */
+  }
+  
+  .customer-care {
+    /* Add styling for Customer Care */
+  }
+  
+  .social-media {
+    /* Add styling for Social Media */
+  }
+  
+  .facebook-announcement {
+    /* Add styling for the Facebook announcement section */
+  }
+  
+  .instagram-announcement {
+    /* Add styling for the Instagram announcement section */
+  }
+  

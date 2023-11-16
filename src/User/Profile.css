@@ -1,0 +1,836 @@
+.users {
+    position: absolute;
+    top: 321px;
+    left: 724px;
+    font-size: 20px;
+    letter-spacing: 0.02em;
+    line-height: 31px;
+    font-weight: 600;
+    font-family: var(--font-poppins);
+    display: none;
+  }
+  .union-icon,
+  .union-icon1 {
+    position: relative;
+    width: 63.67px;
+    height: 9.7px;
+  }
+  .union-icon1 {
+    width: 62.67px;
+  }
+  .profile1 {
+    position: absolute;
+    top: 0;
+    left: 88px;
+    text-transform: uppercase;
+  }
+  .profile-inner,
+  .union-parent {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 363.67px;
+    height: 56px;
+  }
+  .profile-inner {
+    top: 177px;
+    left: 775px;
+    text-align: center;
+    font-size: 48px;
+    color: var(--primary);
+    font-family: var(--font-roboto);
+  }
+  .account,
+  .billing,
+  .subscription-plan {
+    position: absolute;
+    top: 0;
+    letter-spacing: 0.01em;
+    line-height: 120%;
+    display: flex;
+    align-items: flex-end;
+    height: 39px;
+  }
+  .account {
+    left: 0;
+    color: var(--primary);
+    width: 133px;
+  }
+  .billing,
+  .subscription-plan {
+    left: 175.5px;
+    width: 127.5px;
+    cursor: pointer;
+  }
+  .subscription-plan {
+    left: 348px;
+    width: 318px;
+  }
+  .settings-header-child {
+    position: absolute;
+    top: 59.75px;
+    left: -0.75px;
+    border-top: 1.5px solid rgba(5, 3, 3, 0.5);
+    box-sizing: border-box;
+    width: 1686px;
+    height: 1.5px;
+  }
+  .settings-header {
+    position: absolute;
+    top: 408px;
+    left: 136px;
+    width: 1684.5px;
+    height: 60.5px;
+    font-size: var(--font-size-14xl);
+    color: var(--color-dimgray-100);
+    font-family: var(--font-roboto);
+  }
+  .your-profile {
+    top: 539px;
+    left: 146.5px;
+    font-size: 43.77px;
+    font-weight: 600;
+  }
+  .name,
+  .rena-sony,
+  .security,
+  .your-profile {
+    position: absolute;
+    letter-spacing: 0.01em;
+    line-height: 120%;
+  }
+  .security {
+    top: 1238px;
+    left: 156.38px;
+    font-size: 43.77px;
+    font-weight: 600;
+  }
+  .name,
+  .rena-sony {
+    top: 0;
+    left: 0;
+    display: inline-block;
+    width: 143.64px;
+  }
+  .rena-sony {
+    left: 582.92px;
+    text-align: right;
+    width: 238.03px;
+  }
+  .group-child {
+    position: absolute;
+    top: 55.78px;
+    left: 1.34px;
+    border-top: 1.4px solid var(--line-color);
+    box-sizing: border-box;
+    width: 830.42px;
+    height: 1.41px;
+  }
+  .name-parent {
+    position: absolute;
+    top: 929px;
+    left: 156.38px;
+    width: 831.06px;
+    height: 56.48px;
+  }
+  .renasony,
+  .username {
+    position: absolute;
+    top: 0;
+    left: 0;
+    letter-spacing: 0.01em;
+    line-height: 120%;
+    display: inline-block;
+    width: 238.03px;
+  }
+  .renasony {
+    left: 571.63px;
+    text-align: right;
+    width: 250.35px;
+  }
+  .username-parent {
+    position: absolute;
+    top: 1012.31px;
+    left: 156.38px;
+    width: 831.06px;
+    height: 56.48px;
+  }
+  .aminulaudiocom,
+  .email {
+    position: absolute;
+    top: 0;
+    left: 0;
+    letter-spacing: 0.01em;
+    line-height: 120%;
+    display: inline-block;
+    width: 133.38px;
+  }
+  .aminulaudiocom {
+    left: 404.14px;
+    text-align: right;
+    width: 418.61px;
+  }
+  .email-parent {
+    position: absolute;
+    top: 1099.86px;
+    left: 158.44px;
+    width: 831.06px;
+    height: 56.48px;
+  }
+  .password {
+    position: absolute;
+    top: 16.94px;
+    left: 0;
+    letter-spacing: 0.01em;
+    line-height: 120%;
+  }
+  .password-change-child {
+    position: absolute;
+    top: 0;
+    left: 0;
+    border-radius: 12.71px;
+    background-color: var(--primary);
+    width: 364.31px;
+    height: 56.48px;
+  }
+  .change-password {
+    position: absolute;
+    top: 7.06px;
+    left: 63.54px;
+    letter-spacing: 0.01em;
+    line-height: 120%;
+  }
+  .edit-duotone-line-icon,
+  .password-change {
+    position: absolute;
+    top: 8.47px;
+    left: 21.18px;
+    width: 39.54px;
+    height: 39.54px;
+  }
+  .password-change {
+    top: 0;
+    left: 468.81px;
+    width: 364.31px;
+    height: 56.48px;
+    color: var(--color-white);
+  }
+  .password-parent {
+    position: absolute;
+    top: 1313.19px;
+    left: 156.38px;
+    width: 833.12px;
+    height: 56.48px;
+  }
+  .edit-profile-child {
+    position: absolute;
+    top: 0;
+    left: 0;
+    border-radius: 12.71px;
+    background-color: var(--primary);
+    width: 276px;
+    height: 57px;
+  }
+  .edit-profile1 {
+    position: absolute;
+    top: 7.06px;
+    left: 78.54px;
+    letter-spacing: 0.01em;
+    line-height: 120%;
+  }
+  .edit-duotone-line-icon1 {
+    position: absolute;
+    top: 8.47px;
+    left: 22.68px;
+    width: 39.54px;
+    height: 39.54px;
+  }
+  .edit-profile,
+  .logout-child {
+    position: absolute;
+    height: 57px;
+  }
+  .edit-profile {
+    top: 576.53px;
+    left: 1541.5px;
+    width: 276px;
+    cursor: pointer;
+    color: var(--color-white);
+  }
+  .logout-child {
+    top: 0;
+    left: 0;
+    border-radius: 12.71px;
+    border: 1.5px solid var(--text-shad-color);
+    box-sizing: border-box;
+    width: 214.5px;
+  }
+  .logout1 {
+    position: absolute;
+    top: 7.06px;
+    left: 74.04px;
+    letter-spacing: 0.01em;
+    line-height: 120%;
+  }
+  .logout {
+    position: absolute;
+    top: 576.53px;
+    left: 1282px;
+    width: 214.5px;
+    height: 57px;
+  }
+  .delete-audiosed-account {
+    position: absolute;
+    top: 8.47px;
+    left: 0;
+    letter-spacing: 0.01em;
+    line-height: 120%;
+  }
+  .deleted-account-child {
+    position: absolute;
+    top: 0;
+    left: 0;
+    border-radius: 12.71px;
+    background-color: #c11;
+    width: 327.6px;
+    height: 56.48px;
+  }
+  .delete-account1 {
+    position: absolute;
+    top: 7.06px;
+    left: 70.6px;
+    letter-spacing: 0.01em;
+    line-height: 120%;
+  }
+  .remove-icon {
+    position: absolute;
+    top: 14.12px;
+    left: 19.77px;
+    width: 33.89px;
+    height: 33.89px;
+  }
+  .delete-account,
+  .deleted-account {
+    position: absolute;
+    top: 0;
+    left: 502.69px;
+    width: 327.6px;
+    height: 56.48px;
+  }
+  .delete-account {
+    top: 1142.55px;
+    left: 141.21px;
+    width: 830.29px;
+    display: none;
+    color: var(--color-white);
+  }
+  .profile-child,
+  .sign-out-circle-icon {
+    position: absolute;
+    top: 587.03px;
+    left: 1312px;
+    width: 36px;
+    height: 36px;
+  }
+  .profile-child {
+    top: 451px;
+    left: 134px;
+    border-top: 4px solid var(--primary);
+    box-sizing: border-box;
+    width: 133px;
+    height: 4px;
+  }
+  .profile-item {
+    position: absolute;
+    top: 634px;
+    left: 142px;
+    width: 246px;
+    height: 246px;
+  }
+  .group-child1,
+  .rectangle-div {
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: var(--color-white);
+    width: 1920px;
+    height: 304px;
+  }
+  .group-child1 {
+    background-color: var(--primary);
+    height: 8px;
+  }
+  .image-3-icon,
+  .image-59-icon,
+  .x-stocks-icon {
+    position: relative;
+    width: 247px;
+    height: 62px;
+    object-fit: cover;
+  }
+  .image-3-icon,
+  .image-59-icon {
+    width: 60px;
+    height: 60px;
+  }
+  .image-59-icon {
+    width: 66px;
+  }
+  .image-3-parent {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 20px;
+  }
+  .div {
+    position: absolute;
+    top: 0;
+    left: 33px;
+    letter-spacing: 0.09em;
+    display: inline-block;
+    width: 219px;
+  }
+  .parent,
+  .phone-icon {
+    position: absolute;
+    left: 0;
+  }
+  .phone-icon {
+    top: 3px;
+    width: 30px;
+    height: 30px;
+    overflow: hidden;
+  }
+  .parent {
+    top: 24px;
+    width: 252px;
+    height: 35px;
+  }
+  .free-consultancy {
+    position: absolute;
+    top: 0;
+    left: 33px;
+    font-size: var(--font-size-lg);
+    letter-spacing: 0.09em;
+    display: inline-block;
+    width: 166px;
+  }
+  .group-parent {
+    position: relative;
+    width: 252px;
+    height: 59px;
+  }
+  .x-stocks-parent {
+    position: absolute;
+    top: 121px;
+    left: 170px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 430px;
+  }
+  .rectangle-parent {
+    position: absolute;
+    top: 1745px;
+    left: 0;
+    width: 1920px;
+    height: 304px;
+    font-size: 30px;
+    color: var(--primary);
+    font-family: var(--font-roboto);
+  }
+  .logo-icon {
+    position: absolute;
+    height: 53.21%;
+    width: 5.02%;
+    top: 23.02%;
+    right: 89.78%;
+    bottom: 23.77%;
+    left: 5.21%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    display: none;
+  }
+  .div1 {
+    position: absolute;
+    top: 0;
+    left: 30px;
+    letter-spacing: 0.09em;
+    display: inline-block;
+    width: 177px;
+  }
+  .group,
+  .phone-icon1 {
+    position: absolute;
+    left: 0;
+  }
+  .phone-icon1 {
+    top: 3px;
+    width: 23px;
+    height: 23px;
+    overflow: hidden;
+  }
+  .group {
+    top: 24px;
+    width: 207px;
+    height: 28px;
+  }
+  .free-consultancy1 {
+    position: absolute;
+    top: 0;
+    left: 30px;
+    font-size: var(--font-size-lg);
+    letter-spacing: 0.09em;
+    display: inline-block;
+    width: 166px;
+  }
+  .group-container,
+  .x-stocks-icon1 {
+    position: absolute;
+    top: 37px;
+    left: 1604px;
+    width: 207px;
+    height: 52px;
+  }
+  .x-stocks-icon1 {
+    top: 32px;
+    left: 69px;
+    width: 247px;
+    height: 62px;
+    object-fit: cover;
+  }
+  .home,
+  .massages {
+    position: relative;
+    letter-spacing: 0.09em;
+  }
+  .home {
+    display: inline-block;
+    color: var(--primary);
+    width: 77px;
+    flex-shrink: 0;
+  }
+  .massages {
+    cursor: pointer;
+  }
+  .about-us {
+    width: 123px;
+    cursor: pointer;
+  }
+  .about-us,
+  .contact-us,
+  .pricing {
+    position: relative;
+    letter-spacing: 0.09em;
+    display: inline-block;
+    flex-shrink: 0;
+  }
+  .pricing {
+    width: 90px;
+    cursor: pointer;
+  }
+  .contact-us {
+    width: 135px;
+  }
+  .nav {
+    position: absolute;
+    height: 17.46%;
+    width: 41.88%;
+    top: 41.27%;
+    right: 36.35%;
+    bottom: 41.27%;
+    left: 21.77%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: var(--gap-41xl);
+  }
+  .frame-child {
+    position: relative;
+    border-radius: 50%;
+    width: 63px;
+    height: 63px;
+    object-fit: cover;
+  }
+  .anna {
+    position: relative;
+    display: inline-block;
+    width: 83px;
+    flex-shrink: 0;
+  }
+  .ellipse-parent {
+    position: absolute;
+    top: 0;
+    left: 0;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: var(--gap-9xs);
+  }
+  .akar-iconschevron-down {
+    position: absolute;
+    top: 14.5px;
+    left: 107px;
+    width: 14px;
+    height: 14px;
+    overflow: hidden;
+  }
+  .frame-parent {
+    position: absolute;
+    top: 41px;
+    left: 1348px;
+    width: 130px;
+    height: 43px;
+    cursor: pointer;
+    font-size: var(--font-size-lg);
+  }
+  .group-child2,
+  .my-profile {
+    position: absolute;
+    top: 0;
+    left: 0;
+  }
+  .group-child2 {
+    border-radius: var(--br-5xs);
+    background-color: var(--color-white);
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.12);
+    width: 171px;
+    height: 214px;
+  }
+  .my-profile {
+    width: 100%;
+    letter-spacing: -0.18px;
+    line-height: 28px;
+    font-weight: 500;
+    display: flex;
+    align-items: center;
+  }
+  .group-icon,
+  .my-profile-wrapper {
+    position: absolute;
+    height: 100%;
+    width: 77.48%;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 22.52%;
+  }
+  .group-icon {
+    height: 50.51%;
+    width: 9.91%;
+    top: 21.43%;
+    right: 90.09%;
+    bottom: 28.06%;
+    left: 0;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+  }
+  .group-parent1 {
+    position: absolute;
+    height: 13.08%;
+    width: 64.91%;
+    top: 4.44%;
+    right: 28.07%;
+    bottom: 82.48%;
+    left: 7.02%;
+  }
+  .group-child3,
+  .group-child4,
+  .group-child5,
+  .line-div {
+    position: absolute;
+    height: 0.47%;
+    width: 100.58%;
+    top: 21.96%;
+    right: -0.29%;
+    bottom: 77.57%;
+    left: -0.29%;
+    border-top: 1px solid var(--color-gainsboro);
+    box-sizing: border-box;
+  }
+  .group-child3,
+  .group-child4,
+  .group-child5 {
+    top: 41.12%;
+    bottom: 58.41%;
+  }
+  .group-child4,
+  .group-child5 {
+    top: 61.68%;
+    bottom: 37.85%;
+  }
+  .group-child5 {
+    top: 78.5%;
+    bottom: 21.03%;
+  }
+  .message-square-icon {
+    position: absolute;
+    top: 4px;
+    left: 0;
+    width: 22px;
+    height: 22px;
+    overflow: hidden;
+  }
+  .message-board-wrapper {
+    position: absolute;
+    height: 100%;
+    width: 80.13%;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 19.87%;
+  }
+  .message-square-parent {
+    position: absolute;
+    top: 137px;
+    left: 7px;
+    width: 151px;
+    height: 28px;
+    cursor: pointer;
+  }
+  .logout2 {
+    position: absolute;
+    width: 77.48%;
+    top: 0;
+    left: 22.52%;
+    letter-spacing: -0.18px;
+    line-height: 28px;
+    font-weight: 500;
+    display: flex;
+    align-items: center;
+  }
+  .group-child6 {
+    position: absolute;
+    height: 39.29%;
+    width: 9.91%;
+    top: 32.14%;
+    right: 90.09%;
+    bottom: 28.57%;
+    left: 0;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+  }
+  .logout-parent {
+    position: absolute;
+    height: 13.08%;
+    width: 64.91%;
+    top: 80.84%;
+    right: 28.07%;
+    bottom: 6.07%;
+    left: 7.02%;
+    cursor: pointer;
+  }
+  .billing-wrapper,
+  .group-child7 {
+    position: absolute;
+    height: 100%;
+    width: 82.88%;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 17.12%;
+  }
+  .group-child7 {
+    height: 53.57%;
+    width: 8.22%;
+    top: 25%;
+    right: 91.78%;
+    bottom: 21.43%;
+    left: 0;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+  }
+  .group-parent2 {
+    position: absolute;
+    height: 13.08%;
+    width: 85.38%;
+    top: 25.7%;
+    right: 7.6%;
+    bottom: 61.21%;
+    left: 7.02%;
+    cursor: pointer;
+  }
+  .group-child8,
+  .subscription-plan-wrapper {
+    position: absolute;
+    height: 100%;
+    width: 83.01%;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 16.99%;
+  }
+  .group-child8 {
+    height: 50%;
+    width: 9.15%;
+    top: 25%;
+    right: 90.85%;
+    bottom: 25%;
+    left: 0;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+  }
+  .group-parent3 {
+    position: absolute;
+    height: 13.08%;
+    width: 89.47%;
+    top: 44.86%;
+    right: 4.09%;
+    bottom: 42.06%;
+    left: 6.43%;
+    cursor: pointer;
+  }
+  .group-wrapper,
+  .header-inner {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 171px;
+    height: 214px;
+  }
+  .header-inner {
+    height: 224.6%;
+    width: 8.91%;
+    top: 73.02%;
+    right: 20.89%;
+    bottom: -197.62%;
+    left: 70.21%;
+    display: none;
+    font-size: var(--font-size-sm);
+    font-family: var(--font-montserrat);
+  }
+  .header,
+  .profile {
+    background-color: var(--color-white);
+  }
+  .header {
+    position: absolute;
+    top: 0;
+    left: 0;
+    border-bottom: 1px solid var(--color-darkgray);
+    box-sizing: border-box;
+    width: 1920px;
+    height: 126px;
+    font-size: var(--font-size-5xl);
+    font-family: var(--font-roboto);
+  }
+  .profile {
+    position: relative;
+    width: 100%;
+    height: 2044px;
+    overflow: hidden;
+    text-align: left;
+    font-size: 32.48px;
+    color: var(--color-black);
+    font-family: var(--font-mulish);
+  }
+  

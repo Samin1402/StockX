@@ -1,0 +1,385 @@
+.logo-icon1 {
+  position: absolute;
+  height: 53.21%;
+  width: 5.02%;
+  top: 23.02%;
+  right: 89.78%;
+  bottom: 23.77%;
+  left: 5.21%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  display: none;
+}
+.div2 {
+  position: absolute;
+  top: 0;
+  left: 30px;
+  letter-spacing: 0.09em;
+  display: inline-block;
+  width: 177px;
+}
+.parent1,
+.phone-icon2 {
+  position: absolute;
+  left: 0;
+}
+.phone-icon2 {
+  top: 3px;
+  width: 23px;
+  height: 23px;
+  overflow: hidden;
+}
+.parent1 {
+  top: 24px;
+  width: 207px;
+  height: 28px;
+}
+.free-consultancy2 {
+  position: absolute;
+  top: 0;
+  left: 30px;
+  font-size: var(--font-size-lg);
+  letter-spacing: 0.09em;
+  display: inline-block;
+  width: 166px;
+}
+.group-parent5{
+  position: absolute;
+  top: 37px;
+  left: 1604px;
+  width: 207px;
+  height: 52px;
+}
+.x-stocks-icon2 {
+  position: left;
+  top: 37px;
+  left: 1604px;
+  width: 207px;
+  height: 52px;
+}
+.logo  {
+  top: 32px;
+  left: 15px;
+  width: 247px;
+  height: 62px;
+  object-fit: cover;
+}
+.home1 {
+  display: inline-block;
+  color: var(--color-darkviolet);
+  width: 77px;
+  flex-shrink: 0;
+}
+.home1,
+.massages1 {
+  position: relative;
+  letter-spacing: 0.09em;
+  cursor: pointer;
+}
+.about-us1,
+.massages1 {
+  width: 123px;
+  cursor: pointer;
+}
+.about-us1,
+.contact-us1,
+.pricing3 {
+  position: relative;
+  letter-spacing: 0.09em;
+  display: inline-block;
+  flex-shrink: 0;
+}
+.pricing3 {
+  width: 90px;
+  cursor: pointer;
+}
+.contact-us1 {
+  width: 135px;
+}
+.nav1 {
+  position: absolute;
+  height: 17.46%;
+  width: 41.88%;
+  top: 41.27%;
+  right: 36.35%;
+  bottom: 41.27%;
+  left: 21.77%;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-41xl);
+}
+.frame-child1 {
+  position: relative;
+  border-radius: 50%;
+  width: 63px;
+  height: 63px;
+  object-fit: cover;
+}
+.anna1 {
+  position: relative;
+  display: inline-block;
+  width: 83px;
+  flex-shrink: 0;
+}
+.ellipse-group {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-9xs);
+}
+.akar-iconschevron-down1 {
+  position: absolute;
+  top: 14.5px;
+  left: 107px;
+  width: 14px;
+  height: 14px;
+  overflow: hidden;
+}
+.frame-parent8 {
+  position: absolute;
+  top: 41px;
+  left: 1348px;
+  width: 130px;
+  height: 43px;
+  font-size: var(--font-size-lg);
+}
+.my-profile1,
+.rectangle-div {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.rectangle-div {
+  border-radius: var(--br-5xs);
+  background-color: var(--color-white);
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.12);
+  width: 171px;
+  height: 214px;
+}
+.my-profile1 {
+  width: 100%;
+  letter-spacing: -0.18px;
+  line-height: 28px;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+}
+.group-child7,
+.my-profile-container {
+  position: absolute;
+  height: 100%;
+  width: 77.48%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 22.52%;
+}
+.group-child7 {
+  height: 54.08%;
+  width: 10.81%;
+  top: 19.64%;
+  right: 89.64%;
+  bottom: 26.28%;
+  left: -0.45%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.group-parent7 {
+  position: absolute;
+  height: 13.08%;
+  width: 64.91%;
+  top: 4.44%;
+  right: 28.07%;
+  bottom: 82.48%;
+  left: 7.02%;
+}
+.group-child10,
+.group-child11,
+.group-child8,
+.group-child9 {
+  position: absolute;
+  height: 0.47%;
+  width: 100.58%;
+  top: 21.96%;
+  right: -0.29%;
+  bottom: 77.57%;
+  left: -0.29%;
+  border-top: 1px solid var(--color-gainsboro-100);
+  box-sizing: border-box;
+}
+.group-child10,
+.group-child11,
+.group-child9 {
+  top: 41.12%;
+  bottom: 58.41%;
+}
+.group-child10,
+.group-child11 {
+  top: 61.68%;
+  bottom: 37.85%;
+}
+.group-child11 {
+  top: 78.5%;
+  bottom: 21.03%;
+}
+.message-square-icon1 {
+  position: absolute;
+  top: 4px;
+  left: 0;
+  width: 22px;
+  height: 22px;
+  overflow: hidden;
+}
+.message-board-container {
+  position: absolute;
+  height: 100%;
+  width: 80.13%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 19.87%;
+}
+.message-square-group {
+  position: absolute;
+  top: 137px;
+  left: 7px;
+  width: 151px;
+  height: 28px;
+  cursor: pointer;
+}
+.logout1 {
+  position: absolute;
+  width: 77.48%;
+  top: 0;
+  left: 22.52%;
+  letter-spacing: -0.18px;
+  line-height: 28px;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+}
+.group-child12 {
+  position: absolute;
+  height: 42.86%;
+  width: 10.81%;
+  top: 30.36%;
+  right: 89.64%;
+  bottom: 26.79%;
+  left: -0.45%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.logout-group {
+  position: absolute;
+  height: 13.08%;
+  width: 64.91%;
+  top: 80.84%;
+  right: 28.07%;
+  bottom: 6.07%;
+  left: 7.02%;
+  cursor: pointer;
+}
+.billing-container,
+.group-child13 {
+  position: absolute;
+  height: 100%;
+  width: 82.88%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 17.12%;
+}
+.group-child13 {
+  height: 57.14%;
+  width: 8.9%;
+  top: 23.21%;
+  right: 91.44%;
+  bottom: 19.64%;
+  left: -0.34%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.group-parent8 {
+  position: absolute;
+  height: 13.08%;
+  width: 85.38%;
+  top: 25.7%;
+  right: 7.6%;
+  bottom: 61.21%;
+  left: 7.02%;
+  cursor: pointer;
+}
+.group-child14,
+.subscription-plan-container {
+  position: absolute;
+  height: 100%;
+  width: 83.01%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 16.99%;
+}
+.group-child14 {
+  height: 53.57%;
+  width: 9.8%;
+  top: 23.21%;
+  right: 90.52%;
+  bottom: 23.21%;
+  left: -0.33%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.group-parent9 {
+  position: absolute;
+  height: 13.08%;
+  width: 89.47%;
+  top: 44.86%;
+  right: 4.09%;
+  bottom: 42.06%;
+  left: 6.43%;
+  cursor: pointer;
+}
+.group-frame,
+.header-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 171px;
+  height: 214px;
+}
+.header-child {
+  height: 224.6%;
+  width: 8.91%;
+  top: 73.02%;
+  right: 20.89%;
+  bottom: -197.62%;
+  left: 70.21%;
+  font-size: var(--font-size-sm);
+  font-family: var(--font-montserrat);
+}
+.header1 {
+  position: relative;
+  background-color: var(--color-white);
+  border-bottom: 1px solid var(--color-darkgray);
+  box-sizing: border-box;
+  width: 1920px;
+  height: 126px;
+  max-width: 100%;
+  max-height: 100%;
+  overflow: auto;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-black);
+  font-family: var(--font-roboto);
+}

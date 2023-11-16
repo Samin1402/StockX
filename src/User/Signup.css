@@ -1,0 +1,127 @@
+.auth-form-container {
+  position: absolute;
+  display: flex;
+  bottom: 250px; /* Optionally set a height for the container */
+  }
+  
+  .left-section {
+    text-align: center;
+  }
+  
+  .left-section img {
+    margin-right: 20px;
+    margin-top: 50px;
+    margin-left: 30px;
+   
+  }
+  .logo{
+    text-align: center;
+    padding-bottom: 50px;
+  margin-left: 3rem;
+  }
+  
+  .right-section {
+    background-color: white; /* Set a background color for the right section */
+    padding: 50px;
+    border-radius: 8px;
+    padding-bottom: 0px; /* Optional: Add border-radius for a rectangular box effect */
+  }
+  
+  .Login-form {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+  }
+  
+  /* Add any other styles you need for the form elements */
+  
+  .error-message {
+    color: red;
+    margin-top: 5px;
+  }
+  
+ 
+  .image_logo{
+    width: 660px;
+    height: 520px;
+  flex-shrink: 0;
+  margin-left: 1rem;
+  }
+  .right_side{
+    width: 420px;
+  height: 492px;
+  flex-shrink: 0;
+  border-radius: 20px;
+  background: #FFF;
+  box-shadow: 0px 0px 50px 5px rgba(0, 0, 0, 0.10);
+  }
+  .user{
+    width: 420px;
+height: 105px;
+top: 166px;
+left: 1064px;
+border-radius: 20px;
+background: #F4F4F4;
+text-decoration-color: black;
+font-family: Poppins;
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 105px;
+  letter-spacing: 0.02em;
+  text-align: center;
+  }
+
+  .login-button {
+
+flex-shrink: 0;
+    border-radius: 8px;
+    background: #B40ADF;
+    color: #fff; /* Set your desired text color */
+    padding: 10px 20px; /* Set padding as needed */
+    font-size: 16px; /* Set font size as needed */
+    border: none; /* Remove border if you don't want any */
+    border-radius: 5px; /* Add border-radius for rounded corners */
+    cursor: pointer; /* Add a pointer cursor on hover */
+  }
+  
+  .login-button:hover {
+    background-color: rgb(55, 7, 143); /* Change background color on hover */
+  }
+  
+  .Emailbutton{
+    border-radius: 10px;
+background: var(--grey-bg, #F4F4F4);
+color: #fff; /* Set your desired text color */
+    padding: 10px 20px; /* Set padding as needed */
+    font-size: 16px; /* Set font size as needed */
+    border: none; /* Remove border if you don't want any */
+    border-radius: 5px; /* Add border-radius for rounded corners */
+    cursor: pointer; /* Add a pointer cursor on hover */
+  }
+  .Passbutton{
+    border-radius: 10px;
+background: var(--grey-bg, #F4F4F4);
+color: #fff; /* Set your desired text color */
+    padding: 10px 20px; /* Set padding as needed */
+    font-size: 16px; /* Set font size as needed */
+    border: none; /* Remove border if you don't want any */
+    border-radius: 5px; /* Add border-radius for rounded corners */
+    cursor: pointer; /* Add a pointer cursor on hover */
+
+  }
+ /* Styling for the "Keep me logged in" label */
+.keep-logged-in {
+    color: #5C02B5;
+  }
+  
+  /* Styling for the checkbox */
+  .keep-logged-in input[type="checkbox"] {
+    /* Regular checkbox color */
+    border: 1px solid #5C02B5;
+  }
+  
+.forgotpassword{
+justify-content: center;
+display: flex;
+}
+  

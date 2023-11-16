@@ -1,0 +1,52 @@
+.Homecontainer {
+    position: relative;
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+    box-sizing: border-box;
+  }
+
+  .heading {
+    background-color: #B40ADF;
+    padding: 10px; /* Add some padding for spacing */
+    text-align: center; /* Center the text horizontally */
+  }
+
+.homeimg {
+    display: flex;
+    color: var(--primary);
+    width: 1095px;
+    flex-shrink: 0;
+  }
+
+  .Footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+  }
+  html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .page-wrapper {
+    display: flex;
+    flex-direction: column;
+    min-height: 100%;
+  }
+  
+  .Homecontainer {
+    flex: 1;
+  }
+  .Subscribe{
+    background: #B40ADF;
+    width: 100px;
+    height: 50px;
+    top: 2289px;
+    left: 618px;
+    border-radius: 8px;
+    
+  }

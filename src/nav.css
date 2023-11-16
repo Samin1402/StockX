@@ -1,0 +1,83 @@
+
+
+.header {
+    background-color: #ffffff;
+    padding: 20px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .nav {
+    display: flex;
+    gap: 20px;
+    flex: 1;
+  }
+  
+  /* Styles for Home */
+  .home a {
+    width: 77px;
+    height: 28px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 28px;
+    letter-spacing: 0.09em;
+    color: #B40ADF;
+  }
+  
+  /* Styles for Massages */
+  .massages a {
+    width: 126px;
+    height: 28px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 28px;
+    letter-spacing: 0.09em;
+    color: #000000;
+  }
+  
+  /* Styles for About Us */
+  .about-us a {
+    width: 123px;
+    height: 28px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 28px;
+    letter-spacing: 0.09em;
+    color: #000000;
+  }
+  
+  /* Styles for Pricing */
+  .pricing2 a {
+    width: 90px;
+    height: 28px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 28px;
+    letter-spacing: 0.09em;
+    color: #000000;
+  }
+  
+  /* Styles for Contact Us */
+  .contact-us a {
+    width: 135px;
+    height: 28px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 28px;
+    letter-spacing: 0.09em;
+    color: #000000;
+  }
+  .header-info {
+    flex: 1;
+    text-align: right;
+    color: black;
+  }
